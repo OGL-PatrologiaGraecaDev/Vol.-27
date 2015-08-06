@@ -1,0 +1,34 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/27/pst.000005712182/718.png"; bbox 0 0 2026 3166; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1645 14 1934 64">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1645 14 1934 64">
+     <span class='ocr_line' id='line_1_1' title="bbox 1645 14 1934 64; baseline -0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1645 16 1786 64; x_wconf 87' lang='lat' dir='ltr'><strong>CIRCU</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1797 14 1934 62; x_wconf 82' lang='lat' dir='ltr'>LATES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1966 356 2026 811">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1981 470 2026 761">
+     <span class='ocr_line' id='line_1_2' title="bbox 2001 470 2026 495; baseline 0.08 -7"><span class='ocrx_word' id='word_1_3' title='bbox 2001 470 2013 495; x_wconf 49' lang='grc' dir='ltr'>..ζ</span> <span class='ocrx_word' id='word_1_4' title='bbox 2020 482 2026 490; x_wconf 69' lang='grc' dir='ltr'><em>ι</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1988 496 2016 528; baseline 0.107 -3"><span class='ocrx_word' id='word_1_5' title='bbox 1988 496 2016 528; x_wconf 55' lang='grc' dir='ltr'><em>ς</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1983 568 2026 598; baseline 0 -12"><span class='ocrx_word' id='word_1_6' title='bbox 1983 583 1992 594; x_wconf 34' lang='grc' dir='ltr'>,ρ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1981 633 2021 659; baseline -0.05 -7"><span class='ocrx_word' id='word_1_7' title='bbox 1981 633 2021 659; x_wconf 65' lang='grc' dir='ltr'>ιτῑ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1992 746 2018 761; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 1992 747 2007 761; x_wconf 53' lang='grc' dir='ltr'><em>ὁ</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 2016 746 2018 761; x_wconf 75' lang='grc' dir='ltr'><strong>ξ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 921 1430 1234 1443">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 921 1430 1234 1443">
+     <span class='ocr_line' id='line_1_7' title="bbox 921 1430 1234 1443; baseline 0 -8"><span class='ocrx_word' id='word_1_10' title='bbox 921 1430 1234 1443; x_wconf 28' lang='lat' dir='ltr'><strong>ﬁ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 612 2886 1082 3130">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 808 3069 970 3080">
+     <span class='ocr_line' id='line_1_8' title="bbox 808 3069 970 3080; baseline 0 -3"><span class='ocrx_word' id='word_1_11' title='bbox 808 3078 811 3080; x_wconf 31' lang='grc' dir='ltr'><strong>ν</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 891 3074 893 3078; x_wconf 80' lang='grc'>,</span> <span class='ocrx_word' id='word_1_13' title='bbox 966 3069 970 3077; x_wconf 63' lang='grc' dir='ltr'><em>μ</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>

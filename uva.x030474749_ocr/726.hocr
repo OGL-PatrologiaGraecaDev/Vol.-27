@@ -1,0 +1,21 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/27/uva.x030474749/726.png"; bbox 0 0 2071 3237; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1850 1489 2048 1954">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1913 1533 1989 1578">
+     <span class='ocr_line' id='line_1_1' title="bbox 1913 1533 1989 1578; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1913 1533 1942 1578; x_wconf 49' lang='lat'>:‘11-</span> <span class='ocrx_word' id='word_1_2' title='bbox 1986 1563 1989 1565; x_wconf 53' lang='grc' dir='ltr'>λ</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1871 1577 2027 1934">
+     <span class='ocr_line' id='line_1_2' title="bbox 1897 1577 2002 1617; baseline 0 -11"><span class='ocrx_word' id='word_1_3' title='bbox 1968 1577 1969 1580; x_wconf 72' lang='grc'><em>“</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 2001 1595 2002 1598; x_wconf 61' lang='grc' dir='ltr'><strong>η</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1871 1782 2027 1835; baseline -0.013 -10"><span class='ocrx_word' id='word_1_5' title='bbox 2016 1786 2027 1823; x_wconf 39' lang='grc' dir='ltr'>’λ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1909 1832 2027 1859; baseline 0 -19"><span class='ocrx_word' id='word_1_6' title='bbox 1909 1836 1933 1848; x_wconf 52' lang='lat'>,,._</span> <span class='ocrx_word' id='word_1_7' title='bbox 1982 1834 2027 1859; x_wconf 20' lang='grc' dir='ltr'>ἓν,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1890 1854 2025 1898; baseline -0.022 -1"><span class='ocrx_word' id='word_1_8' title='bbox 1890 1854 2004 1898; x_wconf 51' lang='grc' dir='ltr'>ἶλιῖῗῖξ</span> <span class='ocrx_word' id='word_1_9' title='bbox 2022 1869 2025 1871; x_wconf 88' lang='grc'>·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1891 1896 2015 1934; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 1891 1896 1960 1934; x_wconf 28' lang='grc' dir='ltr'>’.β’</span> <span class='ocrx_word' id='word_1_11' title='bbox 1978 1913 1988 1929; x_wconf 63' lang='grc' dir='ltr'><strong>ἒ</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2007 1913 2015 1918; x_wconf 79' lang='grc'>“”</span> 
+     </span>
+    </p>
+   </div>
+  </div>
